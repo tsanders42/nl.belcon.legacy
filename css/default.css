@@ -27,7 +27,8 @@ body {
 }
 
 #content a {
-    color: #222222;
+    text-decoration: underline;
+    color: #222222
 }
 
 #wrapper {
