@@ -2,7 +2,7 @@ html {
     height: 100%
 }
 body {
-    background-image: url("https://s3.amazonaws.com/belcon.nl/images/background.jpg");
+    background-image: url("/images/background.jpg");
     background-position: 50% 0;
     background-attachment: fixed;
     -webkit-background-size: cover;
