@@ -26,6 +26,10 @@ body {
     color: #333333
 }
 
+#content a {
+    color: #222222;
+}
+
 #wrapper {
     height: 100%;
     width: 100%;
