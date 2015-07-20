@@ -14,6 +14,11 @@ body {
     color: 444444;
 }
 
+#well {
+    background-color: rgba(245, 245, 245, 0.6);
+    border: 0;
+}
+
 #content {
     display: table-cell;
     text-align: center;
